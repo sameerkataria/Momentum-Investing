@@ -34,4 +34,3 @@ Created a modular python based code (which takes user based investment parameter
 Period: 2010-01-01 to 2021-12-31
 
 1. The momentum strategy provided sharpe ratio of 1.28 and average annual returns of ~24% on monthly rebalancing, i.e. nearly 3 times more returns than the index during the same period. The strategy increased the initial investment by 10 times from 2010 to 2021 while index fund increased it by 3.5 times.
-2. 
